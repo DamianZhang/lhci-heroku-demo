@@ -1,4 +1,6 @@
 {
+  "name": "lhci",
+  "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
     "@lhci/server": "0.7.x",
